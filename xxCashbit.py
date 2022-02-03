@@ -28,6 +28,7 @@ while True:
     count += 1
     total += 2
     #=============================================
+    print("=============================================")
     print(Fore.YELLOW+"\nCurrent PrivateKey --> "+seed)
     print(Fore.GREEN+"Compressed Address : "+Fore.LIGHTGREEN_EX+caddr+Style.RESET_ALL)
     print("Private Key : "+privkey)
